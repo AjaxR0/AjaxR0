@@ -10,8 +10,7 @@
 
 ## About me
 
-Hi, i don't know how you found my github but hello. I am AjaxR, a programmer and gamer whose objective is to achieve my goals in both hardware and software areas. 
-I am currently on a professional IT course and i plan to keep following it and work afterwards.
+Hi, i don't know how you found my github but hello. I am AjaxR gay and a toaster bye
 
 
 ## About my projects
