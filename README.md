@@ -10,7 +10,7 @@
 
 ## About me
 
-Hi, i don't know how you found my github but hello. I am AjaxR, gay and a toaster bye
+Hi, i don't know how you found my github but hello. I am AjaxR, a flying helicopter
 
 
 ## About my projects
